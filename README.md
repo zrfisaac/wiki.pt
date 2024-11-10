@@ -1,31 +1,50 @@
-# Docsify Template
+<!-- # [ zrfisaac ] -->
 
-> A simple [Docsify](https://github.com/docsifyjs/docsify/) template for creating Markdown-based documentation sites, with no build process required.
+<!-- # [ about ] -->
+<!-- # - author : Isaac Caires -->
+<!-- # . - email : zrfisaac@gmail.com -->
+<!-- # . - site : zrfisaac.github.io -->
+<!-- # - version : zrfisaac.github : 1.0.8 -->
 
-## Site Setup
+<!-- # [ markdown ] -->
+[![](https://img.shields.io/badge/currículo-pdf-black?style=for-the-badge)](https://github.com/zrfisaac/zrfisaac.github.io/releases/download/resume-3.2.0/resume-3.2.0-pt.pdf)
 
-### Static Webserver
-Upload these template files to any static web server. The file `.nojekyll` is only required if hosting the site on GitHub Pages and otherwise can be removed.
+# 💻 Isaac Caires | Desenvolvedor de Software 🚀
 
-### GitHub Pages
+Olá! Eu sou Isaac Caires, um analista de sistemas e desenvolvedor de software, com mais de 15 anos de experiência em desenvolvimento full-stack, sistemas ERP e soluções de gestão hospitalar. Atualmente, trabalho como Analista de Sistemas Sênior na Softwell Solutions (Maker), onde desenvolvo e mantenho a Maker Platform, uma ferramenta de desenvolvimento visual para integração de ERP.
 
-#### Hosting Site
+<div>
+  <a href="https://github.com/zrfisaac" target="_blank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zrfisaac&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrfisaac&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-To host this template on GitHub Pages do the following:  
+## 🛠️ Habilidades e Tecnologias
+- **Linguagens:** Delphi, C#, ASP.NET MVC, Python, HTML, CSS, JavaScript, Bash, SQL
+- **Bancos de Dados:** SQL Server, PostgreSQL, Oracle, Firebird, MySQL
+- **Frameworks e Ferramentas:** Docker, Git, Bitbucket, FastReport, ActiveQueryBuilder, CEF4Delphi, DevExpress, ReportBuilder, EurekaLog, NSIS, SynEdit, Lazarus
+- **Sistemas Operacionais:** Windows, Linux (Debian, ArchLinux, Manjaro, Alpine, Ubuntu)
+- **Ferramentas de Desenvolvimento:** Visual Studio Code, VirtualBox, VMware, Wine, InnoSetup, VNC
+- **Princípios de Design:** Programação Orientada a Objetos (OOP), SOLID, KISS
+- **Padrões de Design:** Factory, Singleton, Observer, Repository, MVC
+- **Outros:** JSON, XML, INI, CSV, Registro do Windows, Inteligência Artificial, Sistemas ERP, Registro de Endoscopia, Sistemas de Gestão Hospitalar
 
-1. Log into GitHub if you have not done so already
-2. Tap the **Use this template** button in the upper-right of this GitHub Repository and choose **Create a new repository**
-3. Enter a name for your new Repository and then tap the **Create repository** button
-4. Once your new Repostitory is created go to **Settings**, then select **Pages** from the left-hand sidebar, and under **Branch** choose **main** and then tap the **Save** button
-5. Wait a minute or two and refresh the same **Pages** page - once your site is ready a message will be displayed at the top of the screen along with a site link and a **Visit site** button
+## 👨‍💻 Trabalho Atual
 
-#### Editing Content
+Atualmente, estou trabalhando em:
 
-How about editing the content of your new Docsify site on GitHub Pages? View the Markdown page you want to edit (for example, **README.md**) and tap the **Pencil Icon**, then save any changes by tapping the green **Commit changes...** button. In just a few moments the Docsify site will be automatically updated to reflect those changes.
+- **Maker Platform:** Uma ferramenta de desenvolvimento visual para sistemas ERP
 
-### Viewing Locally 
-Run `npx serve .` (Node.js users) or `python -m http.server 8000` (Python users) in the repo folder to serve run locally.
+## 🎓 Educação
+- **Bacharel em Sistemas de Informação** : Universidade Estácio de Sá (2020)
+- **Curso de Inglês** : Minds English School (2016)
 
-## Docsify Documentation
+## 🌍 Idiomas
+- **Português:** Nativo
+- **Inglês:** Avançado
+- **Espanhol:** Avançado
 
-To learn more about using Docsify, visit https://docsify.js.org.
+## 📫 Contato
+- **Email:** zrfisaac@gmail.com
+- **Website:** [zrfisaac.github.io](https://zrfisaac.github.io)
+- **LinkedIn:** [linkedin.com/in/zrfisaac](https://www.linkedin.com/in/zrfisaac)
