@@ -21,9 +21,9 @@ Explore the history, architecture, and types of CPUs, from their origins to mode
 
 Explore detailed examples and assembly guides for specific CPUs:  
 
-- [x86 Assembly Language Guide](cpu-x86)  
-- [x86_64 Assembly Language Guide](cpu-x86-x64)
-- [ARM Assembly Language Guide](cpu-arm-x64)  
+- [x86 Assembly Language Guide](cpu-i386)  
+- [x86_64 Assembly Language Guide](cpu-amd64)
+- [ARM Assembly Language Guide](cpu-arm)  
 - [RISC-V Assembly Language Guide](cpu-riscv)  
 
 ---
