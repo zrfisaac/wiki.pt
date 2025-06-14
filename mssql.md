@@ -4,7 +4,7 @@
 <!-- # - author : Isaac Caires -->
 <!-- # . - email : zrfisaac@gmail.com -->
 <!-- # . - site : zrfisaac.github.io -->
-<!-- # - version : zrfisaac.wiki.pt.mssql : 0.0.2 -->
+<!-- # - version : zrfisaac.wiki.pt.mssql : 25.6.14.1 -->
 
 <!-- # [ markdown ] -->
 # SQL Server
@@ -16,14 +16,14 @@ SQL Server é um sistema gerenciador de banco de dados relacional (SGBDR) desenv
 
 ## Índice
 - Ajuda
-  - [BACKUP](delphi-ajuda-backup)
-  - [DATE](delphi-ajuda-date)
-  - [DATETIME](delphi-ajuda-datetime)
-  - [HASH](delphi-ajuda-hash)
-  - [INFORMATION_SCHEMA](delphi-ajuda-information-schema)
-  - [STRING](delphi-ajuda-string)
-  - [TRIGGER](delphi-ajuda-trigger)
-  - [VIEW](delphi-ajuda-view)
+  - BACKUP
+  - DATE
+  - DATETIME
+  - HASH
+  - INFORMATION_SCHEMA
+  - STRING
+  - TRIGGER
+  - VIEW
 - Padrão
   - Porta: `1433` `5920`
   - Usuário: `sa`
@@ -42,6 +42,13 @@ SQL Server é um sistema gerenciador de banco de dados relacional (SGBDR) desenv
   - SQL Server Developer:
       [`2022`](https://download.microsoft.com/download/c/c/9/cc9c6797-383c-4b24-8920-dc057c1de9d3/SQL2022-SSEI-Dev.exe)
       [`2019`](https://go.microsoft.com/fwlink/?linkid=866662)
+  - SQL Server Express
+      - [`2008 R2 SP2`](https://www.microsoft.com/pt-br/download/details.aspx?id=30438):
+        [`SQLEXPR_x64_PTB.exe`](https://download.microsoft.com/download/6/a/5/6a543f17-0dc1-43e5-a48f-45eafa826d25/SQLEXPR_x64_PTB.exe)
+        [`SQLEXPR_x86_PTB.exe`](https://download.microsoft.com/download/6/a/5/6a543f17-0dc1-43e5-a48f-45eafa826d25/SQLEXPR_x86_PTB.exe)
+        [`SQLEXPR32_x86_PTB.exe`](https://download.microsoft.com/download/6/a/5/6a543f17-0dc1-43e5-a48f-45eafa826d25/SQLEXPR32_x86_PTB.exe)
+        [`SQLEXPRADV_x64_PTB.exe`](https://download.microsoft.com/download/6/a/5/6a543f17-0dc1-43e5-a48f-45eafa826d25/SQLEXPRADV_x64_PTB.exe)
+        [`SQLEXPRWT_x86_PTB.exe`](https://download.microsoft.com/download/6/a/5/6a543f17-0dc1-43e5-a48f-45eafa826d25/SQLEXPRWT_x86_PTB.exe)
   - SQL Server Management Studio:
       [`setup`](https://aka.ms/ssmsfullsetup)
 - [Exemplo](#exemplo)

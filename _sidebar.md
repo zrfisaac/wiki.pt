@@ -4,7 +4,7 @@
 <!-- # - author : Isaac Caires -->
 <!-- # . - email : zrfisaac@gmail.com -->
 <!-- # . - site : zrfisaac.github.io -->
-<!-- # - version : zrfisaac.wiki.pt.sidebar : 0.0.3 -->
+<!-- # - version : zrfisaac.wiki.pt.sidebar : 25.6.14.1 -->
 
 <!-- # [ markdown ] -->
 - [ACBr](acbr)
@@ -65,6 +65,7 @@
 - [JavaScript](javascript)
 - [Jogos](game)
 - [jQuery](jquery)
+- [Lazarus](lazarus)
 - [Kerbal](kerbal)
 - [Laravel](laravel)
 - [LFS / Linux From Scratch](lfs)
@@ -90,7 +91,7 @@
 - [SQL](sql)
 - [SQL Server](mssql)
 - [SSH](ssh)
-- [SteamOS](ssh)
+- [SteamOS](steamos)
 - [Super Nintendo](super-nintendo)
 - [Ubuntu](ubuntu)
 - [VBScript](vbscript)
