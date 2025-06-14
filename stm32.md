@@ -7,46 +7,38 @@
 <!-- # - version : zrfisaac.wiki.pt.base : 0.0.1 -->
 
 <!-- # [ markdown ] -->
-# Base
+# STM32
 
 ## Descrição
-Aqui está a Descrição.
+STM32 é uma família de microcontroladores de 32 bits desenvolvida pela STMicroelectronics, baseada no núcleo ARM® Cortex®. Ela é amplamente utilizada em sistemas embarcados por sua performance, baixo consumo de energia e ampla variedade de periféricos integrados.
 
 ---
 
 ## Índice
-- Padrão
-  - Porta : `1234` `4321`
-  - Usuário : `root`
-  - Banco de dados : `master`
-- Downloads
-  - Aplicativo Um :
-      [`aarch64`](#)
-      [`amd64`](#)
-      [`i386`](#)
-  - Aplicativo Dois :
-      [`aarch64`](#)
-      [`amd64`](#)
-      [`i386`](#)
-  - [Grupo Um](#grupo-um)
-    - [Item Um](#item-um)
-  - [Grupo Dois](#grupo-dois)
-    - [Item Dois](#item-dois)
+- [Microcontroladores](#microcontroladores)
+  - [CH32F103C8T6](#microcontroladores--ch32f103c8t6)
 
 ---
 
-## [Grupo Um](#índice)
+## [Microcontroladores](#índice)
 
-### [Item Um](#índice)
+### [Microcontroladores](#microcontroladores) > [CH32F103C8T6](#índice)
 
-```bash
-echo "Olá Mundo!"
-```
+> [`Shopee`](https://shopee.com.br/STM32F103C8T6-CH32F103C8T6-ARM-STM32-Placa-De-Desenvolvimento-M%C3%ADnimo-Do-Sistema-STM32F401-STM32F411-Programador-De-Download-ST-LINK-V2-i.346512197.23596185431?sp_atk=61182dce-6245-4bdd-87a4-1e244150fa7b&xptdk=61182dce-6245-4bdd-87a4-1e244150fa7b)
 
-## [Grupo Dois](https://www.google.com/url?sa=E&source=gmail&q=#índice)
+O **CH32F103C8T6** é um microcontrolador de 32 bits da empresa **WCH (Nanjing Qinheng Microelectronics)**. Ele é altamente compatível com o **STM32F103C8T6**, sendo muito utilizado como substituto em placas como o **Blue Pill**, principalmente por seu **baixo custo**.
 
-### [Item Dois](https://www.google.com/url?sa=E&source=gmail&q=#índice)
 
-```bash
-echo "Olá Mundo!"
-```
+| Especificação          | Valor                                    |
+| ---------------------- | ---------------------------------------- |
+| **Núcleo**             | ARM® Cortex-M3                           |
+| **Frequência**         | Até 72 MHz                               |
+| **Memória Flash**      | 64 KB                                    |
+| **SRAM (RAM)**         | 20 KB                                    |
+| **GPIOs**              | Até 37 pinos de uso geral                |
+| **Tensão de operação** | 2.0V a 3.6V                              |
+| **Periféricos**        | UART, SPI, I2C, ADC, PWM, USB FS         |
+| **Conversores ADC**    | 2 canais ADC de 12 bits                  |
+| **USB**                | Dispositivo USB Full-Speed (Device Only) |
+| **Pacote físico**      | LQFP-48                                  |
+| **Programação**        | SWD (Serial Wire Debug), USB             |

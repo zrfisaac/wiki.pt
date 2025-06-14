@@ -24,10 +24,6 @@ SQL Server é um sistema gerenciador de banco de dados relacional (SGBDR) desenv
   - STRING
   - TRIGGER
   - VIEW
-- Padrão
-  - Porta: `1433` `5920`
-  - Usuário: `sa`
-  - Banco de dados: `master`
 - Download
   - Driver ODBC para SQL Server:
       [`18-aarch64`](https://go.microsoft.com/fwlink/?linkid=2281322)
@@ -59,6 +55,12 @@ SQL Server é um sistema gerenciador de banco de dados relacional (SGBDR) desenv
   - [Tabela](#tabela)
   - Usuário
   - Visão
+- Padrão
+  - Porta: `1433` `5920`
+  - Usuário: `sa`
+  - Banco de dados: `master`
+- Script
+  - Coluna
 
 ---
 
@@ -112,3 +114,7 @@ BEGIN
   )
 END
 ```
+
+## [Script](#índice)
+
+### [Script](#script) > [Procedimento](#índice)

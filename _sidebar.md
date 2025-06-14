@@ -92,6 +92,7 @@
 - [SQL Server](mssql)
 - [SSH](ssh)
 - [SteamOS](steamos)
+- [STM32](stm32)
 - [Super Nintendo](super-nintendo)
 - [Ubuntu](ubuntu)
 - [VBScript](vbscript)
