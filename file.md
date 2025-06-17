@@ -4,49 +4,49 @@
 <!-- # - author : Isaac Caires -->
 <!-- # . - email : zrfisaac@gmail.com -->
 <!-- # . - site : zrfisaac.github.io -->
-<!-- # - version : zrfisaac.wiki.pt.base : 0.0.1 -->
+<!-- # - version : zrfisaac.wiki.pt.file : 0.0.1 -->
 
 <!-- # [ markdown ] -->
-# Base
+# Arquivos
 
 ## Descrição
-Aqui está a Descrição.
+Aqui você encontra scripts úteis para facilitar tarefas do dia a dia, automatizar processos e resolver problemas comuns de forma prática e rápida.
 
 ---
 
 ## Índice
-- Padrão
-  - Porta : `1234` `4321`
-  - Usuário : `root`
-  - Banco de dados : `master`
-- Downloads
-  - Aplicativo Um :
-      [`aarch64`](#)
-      [`amd64`](#)
-      [`i386`](#)
-  - Aplicativo Dois :
-      [`aarch64`](#)
-      [`amd64`](#)
-      [`i386`](#)
-  - [Grupo Um](#grupo-um)
-    - [Item Um](#item-um)
-  - [Grupo Dois](#grupo-dois)
-    - [Item Dois](#item-dois)
+- [BATch](#batch)
+- [Chocolatey](#chocolatey)
+- [gitignore](#gitignore)
+- [Manjaro](#manjaro)
+- [SQL Server](#manjaro)
 
 ---
 
-## [Grupo Um](#índice)
+## [BATch](#índice)
 
-### [Item Um](#índice)
+- [`7z.bat`](https://zrfisaac.github.io/batch/7z.bat)
+- [`config.bat`](https://zrfisaac.github.io/batch/config.bat)
+- [`delphi7.bat`](https://zrfisaac.github.io/batch/delphi7.bat)
+- [`mysql.bat`](https://zrfisaac.github.io/batch/mysql.bat)
 
-```bash
-echo "Olá Mundo!"
-```
+## [Chocolatey](#índice)
 
-## [Grupo Dois](https://www.google.com/url?sa=E&source=gmail&q=#índice)
+- [`convert.bat`](https://zrfisaac.github.io/choco/convert.bat)
+- [`sqlite.bat`](https://zrfisaac.github.io/choco/sqlite.bat)
 
-### [Item Dois](https://www.google.com/url?sa=E&source=gmail&q=#índice)
+## [gitignore](#índice)
 
-```bash
-echo "Olá Mundo!"
-```
+- [`binary.gitignore`](https://zrfisaac.github.io/gitignore/binary.gitignore)
+- [`delphi7.gitignore`](https://zrfisaac.github.io/gitignore/delphi7.gitignore)
+- [`vstudio2022.gitignore`](https://zrfisaac.github.io/gitignore/vstudio2022.gitignore)
+- [`zrfisaac.gitignore`](https://zrfisaac.github.io/gitignore/zrfisaac.gitignore)
+
+## [Manjaro](#índice)
+
+- [`zrfisaac.sh`](https://zrfisaac.github.io/manjaro/zrfisaac.sh)
+
+## [SQL Server](#índice)
+
+- [`data.sql`](https://zrfisaac.github.io/mssql/data.sql)
+- [`sp_consulta.sql`](https://zrfisaac.github.io/mssql/sp_consulta.sql)

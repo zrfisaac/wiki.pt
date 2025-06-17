@@ -4,49 +4,26 @@
 <!-- # - author : Isaac Caires -->
 <!-- # . - email : zrfisaac@gmail.com -->
 <!-- # . - site : zrfisaac.github.io -->
-<!-- # - version : zrfisaac.wiki.pt.base : 0.0.1 -->
+<!-- # - version : zrfisaac.wiki.pt.ado : 25.6.14.1 -->
 
 <!-- # [ markdown ] -->
-# Base
+# ADO
 
 ## Descrição
-Aqui está a Descrição.
+ADO (ActiveX Data Objects) é uma tecnologia da Microsoft que fornece uma interface de programação para acesso a dados, especialmente bancos de dados. Ela permite que desenvolvedores conectem-se a fontes de dados, executem comandos SQL e manipulem registros de forma simples e consistente.
 
 ---
 
 ## Índice
-- Padrão
-  - Porta : `1234` `4321`
-  - Usuário : `root`
-  - Banco de dados : `master`
-- Downloads
-  - Aplicativo Um :
-      [`aarch64`](#)
-      [`amd64`](#)
-      [`i386`](#)
-  - Aplicativo Dois :
-      [`aarch64`](#)
-      [`amd64`](#)
-      [`i386`](#)
-  - [Grupo Um](#grupo-um)
-    - [Item Um](#item-um)
-  - [Grupo Dois](#grupo-dois)
-    - [Item Dois](#item-dois)
+- [Bug](#bug)
+  - [Erro de Recordset](#bug--erro-de-recordset)
 
----
 
-## [Grupo Um](#índice)
+## [Bug](#índice)
 
-### [Item Um](#índice)
+### [Bug](#bug) > [Erro de Recordset](#índice)
+> Erro de Recordset em ADO causado por ausência de SET NOCOUNT ON em Stored Procedure
 
-```bash
-echo "Olá Mundo!"
-```
+Quando uma **stored procedure no SQL Server não usa `SET NOCOUNT ON`**, o ADO em Delphi pode receber um **recordset vazio** devido às mensagens de "`X row(s) affected`", fazendo com que o **recordset esperado não seja acessado corretamente**. Isso causa erros como `Recordset is not open` ou falhas ao acessar dados.
 
-## [Grupo Dois](https://www.google.com/url?sa=E&source=gmail&q=#índice)
-
-### [Item Dois](https://www.google.com/url?sa=E&source=gmail&q=#índice)
-
-```bash
-echo "Olá Mundo!"
-```
+> Project raised exception class EOleException with message 'Recordset is not open'
