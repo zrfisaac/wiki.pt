@@ -5,9 +5,9 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
 		<title>ZRFISAAC</title>
 		<meta name="description" content="An awesome docsify site for publishing some content on the web.">
-		<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
-		<link  rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css" title="docsify-darklight-theme" type="text/css" />
-		<link rel="stylesheet" href="/library/fontawesome/css/all.min.css">
+		<link rel="stylesheet" href="library/vue/vue.css">
+		<link  rel="stylesheet" href="library/docsify/plugins/darklight.style.min.css" title="docsify-darklight-theme" type="text/css" />
+		<link rel="stylesheet" href="library/fontawesome/css/all.min.css">
 	</head>
 	<body>
 		<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -42,18 +42,18 @@
 				}
 			};
 		</script>
-		<script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
-		<script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
-		<script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
-		<script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js" type="text/javascript"></script>
-		<script src="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
-		<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css" />
-		<script src="//cdn.jsdelivr.net/npm/docsify-latex@0"></script>
+		<script src="library/docsify/docsify.min.js"></script>
+		<script src="library/docsify/plugins/zoom-image.min.js"></script>
+		<script src="library/docsify/plugins/search.js"></script>
+		<script src="library/docsify/plugins/docsify-darklight-theme.js" type="text/javascript"></script>
+		<script src="library/katex/katex.min.js"></script>
+		<link rel="stylesheet" href="library/katex/katex.min.css" />
+		<script src="library/docsify/plugins/docsify-latex.js"></script>
 		<script type="module">
-			import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+			import mermaid from "library/mermaid/mermaid.esm.min.mjs";
 			mermaid.initialize({ startOnLoad: true });
 			window.mermaid = mermaid;
 		</script>
-		<script src="//unpkg.com/docsify-mermaid@2.0.1/dist/docsify-mermaid.js"></script>
+		<script src="library/docsify/plugins/docsify-mermaid.js"></script>
 	</body>
 </html>

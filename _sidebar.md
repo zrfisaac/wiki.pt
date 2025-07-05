@@ -81,6 +81,8 @@
 - [Money](job)
 - [MS-DOS](msdos)
 - [MySQL](mysql)
+- [NetCat](netcat)
+- [NMap](nmap)
 - [NSIS](nsis)
 - [Números](number)
 - [Pixel Art](pixelart)
