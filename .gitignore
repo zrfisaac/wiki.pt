@@ -1,0 +1,9 @@
+# [ gitignore ]
+crack.bat
+*.avi
+*.bmp
+*.exe
+*.mp3
+*.mp4
+_*
+_/
