@@ -1,8 +1,70 @@
 # <img src="icon/flutter.png" alt="Ícone" width="24"> Flutter
 
-> *Última atualização: 2025-08-12*
+> *Última atualização: 2025-08-23*
 
 O Flutter é um framework da Google para criar aplicativos nativos para iOS, Android, web e desktop usando uma única base de código em Dart. Ele permite construir interfaces visuais modernas e responsivas com desempenho nativo.
+
+## 💻 Comandos
+
+* Verificar ambiente e dispositivos
+
+```bash
+flutter doctor
+```
+
+* Atualizar Flutter
+
+```bash
+flutter upgrade
+```
+
+* Limpar build
+
+```bash
+flutter clean
+```
+
+* Criar um novo projeto Flutter
+
+```bash
+flutter create nome_do_projeto
+```
+
+* Instalar dependências
+
+```bash
+flutter pub get
+```
+
+* Rodar o app
+
+```bash
+flutter run
+```
+
+* Compilar para Android APK
+
+```bash
+flutter build apk
+```
+
+* Compilar para Android AAB
+
+```bash
+flutter build appbundle
+```
+
+* Compilar para Windows
+
+```bash
+flutter build windows
+```
+
+* Compilar para Linux
+
+```bash
+flutter build linux
+```
 
 ## 🗂️ Estrutura
 
